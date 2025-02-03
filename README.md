@@ -20,16 +20,16 @@ h as `breakInside: avoid`) on key containers to keep critical elements (like sec
 2. Open a terminal in the project folder.
 3. Install dependencies by running:
 
-```npm install
-
+```
+npm install
 ```
 
 ## Running the Application
 
 To start the server, run:
 
-```npm start
-
+```
+npm start
 ```
 
 This command uses ts-node to run the TypeScript file src/server.ts.
